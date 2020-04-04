@@ -1,0 +1,29 @@
+{
+  "name": "p10-t2-lexgen-testing-alu0100969535",
+  "version": "1.0.0",
+  "description": "testing of @ull-esit-pl-1920/p10-t2-lexgen-code-alu0100969535",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-PL-1920/p10-t2-lexgen-testing-alu0100969535.git"
+  },
+  "keywords": [
+    "testing",
+    "module"
+  ],
+  "author": "Felipe Andrés Álvarez Avaria <alu0100969535@ull.edu.es> (https://github.com/alu0100969535)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-PL-1920/p10-t2-lexgen-testing-alu0100969535/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-PL-1920/p10-t2-lexgen-testing-alu0100969535#readme",
+  "dependencies": {
+    "@ull-esit-pl-1920/p10-t2-lexgen-code-alu0100969535": "^1.1.0"
+  },
+  "devDependencies": {
+    "jest": "^25.2.7"
+  }
+}
