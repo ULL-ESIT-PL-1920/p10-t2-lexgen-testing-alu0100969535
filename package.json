@@ -1,6 +1,6 @@
 {
   "name": "p10-t2-lexgen-testing-alu0100969535",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "testing of @ull-esit-pl-1920/p10-t2-lexgen-code-alu0100969535",
   "main": "index.js",
   "scripts": {
